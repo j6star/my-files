@@ -1,0 +1,50 @@
+<meta name="google-site-verification" content="NIls2oebFRQrgNxYG_7H-8MkWH278184K_8Le_SL7SE" />
+	<title>طراحی وبسایت در شهرقدس</title>
+     <link rel="stylesheet" href="http://ifont.ir/apicode/45" />
+     <style type="text/css">/*<![CDATA[*/
+     div{ /* نمونه ای با تگ */
+         font-family:'A Google',tahoma;
+         font-size:14px;
+     }
+     .font{ /*  نمونه ای با کلاس */
+         font-family:'A Google',tahoma;
+         font-size:14px;
+     }
+     /*]]>*/</style>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]> <![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	
+	
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="http://wppersian.com" style="font-family: 'A Google', tahoma;">وردپرس فارسی</a></h1>
+						<p style="font-family: 'A Google', tahoma;">امنیت &nbsp;•&nbsp; زیبایی &nbsp;•&nbsp; پشتیبانی</p>
+						<nav>
+							<ul>
+								<li><a href="https://twitter.com/WordPress_fa" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/persian.wp.7" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.pinterest.com/wppersian/" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+								<li><a href="https://github.com/wppersian" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://www.instagram.com/wordpress_farsi/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright"> <a href="http://wppersian.com">J6star</a> طراحی توسط</span>
+					</footer>
+
+			</div>
+		</div>
+		<!--[if lte IE 8]> <![endif]-->
