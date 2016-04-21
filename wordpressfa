@@ -1,0 +1,615 @@
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]>    <html class="no-js gt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->  <!--<![endif]-->
+  <!-- Meta Tags -->
+  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!--[if lt IE 9]>
+	 
+<![endif]-->
+
+<title>وردپرس فارسی – طراحی وبسایت در شهر قدس</title>
+<link rel="alternate" type="application/rss+xml" title="وردپرس فارسی » خوراک" href="http://wppersian.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="وردپرس فارسی » خوراک دیدگاه‌ها" href="http://wppersian.com/comments/feed/" />
+		 
+		<style type="text/css">/*<![CDATA[*/
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+/*]]>*/</style>
+<link rel="stylesheet" id="theme-my-login-css" href="http://wppersian.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.4" type="text/css" media="all" />
+<link rel="stylesheet" id="contact-form-7-css" href="http://wppersian.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.1" type="text/css" media="all" />
+<link rel="stylesheet" id="contact-form-7-rtl-css" href="http://wppersian.com/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=4.4.1" type="text/css" media="all" />
+<link rel="stylesheet" id="edd-styles-css" href="http://wppersian.com/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.5.10" type="text/css" media="all" />
+<link rel="stylesheet" id="mks_shortcodes_fntawsm_css-css" href="http://wppersian.com/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.2.8" type="text/css" media="screen" />
+<link rel="stylesheet" id="mks_shortcodes_simple_line_icons-css" href="http://wppersian.com/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.2.8" type="text/css" media="screen" />
+<link rel="stylesheet" id="mks_shortcodes_css-css" href="http://wppersian.com/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.2.8" type="text/css" media="screen" />
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://wppersian.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5" type="text/css" media="all" />
+<style id="rs-plugin-settings-inline-css" type="text/css">/*<![CDATA[*/
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+/*]]>*/</style>
+<link rel="stylesheet" id="uaf_client_css-css" href="http://wppersian.com/wp-content/uploads/useanyfont/uaf.css?ver=1460052819" type="text/css" media="all" />
+<link rel="stylesheet" id="woocommerce-layout-css" href="//wppersian.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.5.5" type="text/css" media="all" />
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//wppersian.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.5.5" type="text/css" media="only screen and (max-width: 768px)" />
+<link rel="stylesheet" id="woocommerce-general-css" href="//wppersian.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.5.5" type="text/css" media="all" />
+<link rel="stylesheet" id="thr_font_0-css" href="http://fonts.googleapis.com/css?family=Roboto%3A400%2C300&subset=latin%2Clatin-ext&ver=1.6" type="text/css" media="screen" />
+<link rel="stylesheet" id="thr_font_1-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%3A400&subset=latin%2Clatin-ext&ver=1.6" type="text/css" media="screen" />
+<link rel="stylesheet" id="thr_font_2-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A400&subset=latin%2Clatin-ext&ver=1.6" type="text/css" media="screen" />
+<link rel="stylesheet" id="thr_style-css" href="http://wppersian.com/wp-content/themes/throne/style.css?ver=1.6" type="text/css" media="screen" />
+<style id="thr_style-inline-css" type="text/css">/*<![CDATA[*/
+body,.button_respond,.thr_author_link {font-family: 'Roboto';font-weight: 300;}h1,h2,h3,h4,h5,h6,.featured_posts_link,.mks_author_widget h3{font-family: 'PT Sans Narrow';font-weight: 400;}#nav li a,.site-title,.site-title a,.site-desc,.sidr ul li a{font-family: 'Roboto Condensed';font-weight: 400;}body,.overlay_bg_div{background-color: rgba(255,255,255,1.00);}.arch_line,.page-progress span{background: #5abae2;}.thr_boxed_wrapper,.is_bxd.meta-share{background-color: #ffffff;}.thr_boxed{margin-top: 0px;}::-webkit-input-placeholder { color:#404c72;}:-moz-placeholder { color: #404c72;}::-moz-placeholder { color:#404c72;}:-ms-input-placeholder { color:#404c72;}.site-title a,#nav li a,.header-main,.search_header_form input[type="text"], .search_header_form input[type="text"]:focus,.menu-item-has-children:after,.sidr ul li span,.sidr ul li a {color: #404c72;}#nav > ul > li:hover > a, #nav a:hover,#nav li.current-menu-item > a,#nav li.current_page_item > a,#nav li.current-menu-item.menu-item-has-children:after,#nav li.current_page_item.menu-item-has-children:after,.sidr ul li:hover > a, .sidr ul li:hover > span,#sidr-existing-content li.sidr-class-current_page_item > a,#sidr-existing-content li.sidr-class-current_page_item > .thr_menu_parent,#sidr-existing-content li.sidr-class-current-menu-item > a,#sidr-existing-content li.sidr-class-current-menu-item > .thr_menu_parent{color: #001544;}.sidr ul li:hover > a, .sidr ul li.active > a, .sidr ul li.sidr-class-active > a,.sidr ul li ul li:hover > a, .sidr ul li ul li.active > a, .sidr ul li ul li.sidr-class-active > a {-webkit-box-shadow: inset 2px 0 0 0px #001544;-moz-box-shadow: inset 2px 0 0 0px #001544;box-shadow: inset 2px 0 0 0px #001544;}.menu-item-has-children:after{border-top-color: #404c72;}li.menu-item-has-children:hover:after{color: #001544;}.header-main {height: 130px;background-color: #ffffff;background-color: rgba(255,255,255,1.00);background-repeat:repeat;}.sidr{background-color: #f4f4f4;}#sticky_header{background-color: #f4f4f4;background:rgba(244,244,244,0.9);}.header-main .search_header_form{background-color: transparent;}.header-main .search_header_form input[type="text"]{top:41px;;}#nav li a{padding: 54px 3px 55px;}.header-bottom,#nav .sub-menu{background-color: #f4f4f4;}.header_ads_space{margin: 20px 0;}.logo_wrapper{top: 12px;left: 0px;}.menu-item-has-children:after{margin: 59px 0 0 2px;}.main_content_wrapper{background-color: transparent;}.thr_content_wrapped .meta-share{background-color: #ffffff;}.main_content_wrapper .single .entry-title, .page-template-default .entry-title,.main_content_wrapper .entry-title a,.main_content_wrapper h1,.main_content_wrapper h2,.main_content_wrapper h3,.main_content_wrapper h4, .main_content_wrapper h5,.main_content_wrapper h6,#subheader_box h1,#subheader_box h2,#subheader_box h3,#subheader_box h4,#subheader_box h5,#subheader_box h6{color: #333333;}.main_content_wrapper,#subheader_box p{color: #444444;}.meta-item,.meta-item a,.comment-metadata time,.comment-list .reply a,.main_content_wrapper .button_respond,li.cat-item,.widget_archive li,.widget_recent_entries ul span{color: #444444;}.meta-item i,.entry-title a:hover,a,.comment-metadata time:before,.button_respond:hover,.button_respond i,.comment-list .reply a:before,.comment-list .reply a:hover,.meta-item a:hover,.error404 h1,.thr_content_wrapped .meta-share.meta-itemi{color: #5abae2;}.error404 .entry-content .nav-menu li a{background: #5abae2;}.underlined_heading span{border-bottom-color: #5abae2;}blockquote{border-color: #5abae2;}.comment-reply-title:after,#submit,.meta-item .read_more_button, .thr_button, input[type="submit"],.current, .page-numbers:hover, #pagination .post_previous a:hover, #pagination .post_next a:hover, .load_more_posts a:hover,.f_read_more,.wp-caption .wp-caption-text,.entry-content .mejs-container .mejs-controls, .entry-content .mejs-embed, .entry-content .mejs-embed body,.comment-list li.bypostauthor > .comment-body:after,.comment-list li.comment-author-admin > .comment-body:after{background: #5abae2;}.entry-content .mejs-controls .mejs-time-rail .mejs-time-total,.entry-content .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.entry-content .mejs-controls .mejs-time-rail .mejs-time-loaded{background: rgba(255,255,255,1.00);}.entry-content .mejs-controls .mejs-time-rail .mejs-time-current,.entry-content .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {background: rgba(90,186,226,0.5);}.current, .page-numbers:hover, #pagination .post_previous a:hover, #pagination .post_next a:hover, .load_more_posts a:hover{box-shadow: inset 0 0 0 1px #5abae2;}.thr_sidebar_wrapped #sidebar,.thr_widget_wrapped #sidebar .widget,.thr_sidebar_wrapped .affix,.thr_sidebar_wrapped .affix-bottom{background: #ffffff;}#sidebar .widget-title,#sidebar h1,#sidebar h2,#sidebar h3,#sidebar h4,#sidebar h5,#sidebar h6{color: #1d64e0;}#sidebar .widget-title span{border-bottom-color: #3e92f2;}.widget_tag_cloud a,#sidebar .widget a,li.recentcomments:before,#sidebar .thr_posts_widget.widget .entry-meta a:hover {color: #3e92f2;}#sidebar{color: #444444;}.footer_wrapper{background-color: #333333}.footer_wrapper p,.footer_wrapper,.footer_wrapper .widget{color: #d8d8d8;}.footer_wrapper a{color: #26aef2;}.footer_wrapper h1,.footer_wrapper h2,.footer_wrapper h3,.footer_wrapper h4,.footer_wrapper h5,.footer_wrapper h6,.footer_wrapper .widget-title{color: #ffffff;}.archive-title,.category-heading-title,#archive_title p,.archive-title h1{color: #333333;}.site-title a{text-transform: uppercase;}.nav-menu li a{text-transform: uppercase;}.footer_wrapper .widget-title{text-transform: uppercase;}
+/*]]>*/</style>
+<link rel="stylesheet" id="thr_responsive-css" href="http://wppersian.com/wp-content/themes/throne/css/responsive.css?ver=1.6" type="text/css" media="screen" />
+<link rel="stylesheet" id="thr_rtl-css" href="http://wppersian.com/wp-content/themes/throne/css/rtl.css?ver=1.6" type="text/css" media="screen" />
+<link rel="stylesheet" id="meks-ads-widget-css" href="http://wppersian.com/wp-content/plugins/meks-easy-ads-widget/css/style.css?ver=1.2" type="text/css" media="all" />
+<link rel="stylesheet" id="meks-flickr-widget-css" href="http://wppersian.com/wp-content/plugins/meks-simple-flickr-widget/css/style.css?ver=1.1.2" type="text/css" media="all" />
+<link rel="stylesheet" id="meks-author-widget-css" href="http://wppersian.com/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.0.8" type="text/css" media="all" />
+<link rel="stylesheet" id="meks-social-widget-css" href="http://wppersian.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.2.5" type="text/css" media="all" />
+<link rel="stylesheet" id="meks-themeforest-widget-css" href="http://wppersian.com/wp-content/plugins/meks-themeforest-smart-widget/css/style.css?ver=1.1.8" type="text/css" media="all" />
+<link rel="stylesheet" id="js_composer_front-css" href="http://wppersian.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.10" type="text/css" media="all" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<link rel="https://api.w.org/" href="http://wppersian.com/wp-json/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wppersian.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wppersian.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<meta name="generator" content="WooCommerce 2.5.5" />
+<link rel="canonical" href="http://wppersian.com/" />
+<link rel="shortlink" href="http://wppersian.com/" />
+<meta name="generator" content="Easy Digital Downloads v2.5.10" />
+		 
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress." />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://wppersian.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://wppersian.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="http://wppersian.com/wp-content/uploads/2016/04/cropped-linked-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://wppersian.com/wp-content/uploads/2016/04/cropped-linked-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://wppersian.com/wp-content/uploads/2016/04/cropped-linked-180x180.png" />
+<meta name="msapplication-TileImage" content="http://wppersian.com/wp-content/uploads/2016/04/cropped-linked-270x270.png" />
+<link rel="shortcut icon" href="http://www.wppersian.com/wp-content/uploads/2016/03/fav.png" type="image/x-icon" /><noscript>&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt; .wpb_animate_when_almost_visible { opacity: 1; }&amp;lt;/style&amp;gt;</noscript>
+
+
+
+<div id="fb-root"></div>
+ 
+
+
+<div id="sticky_header" class="header-sticky"><div class="content_wrapper"></div></div>
+
+<header id="header" class="header full_width clearfix">
+	<div class="header-main">
+				<div class="content_wrapper">		
+						
+<div class="logo_wrapper">
+		
+	
+	<h1 class="site-title">
+		<a href="http://wppersian.com/" title="وردپرس فارسی">
+							<img src="http://www.wppersian.com/wp-content/uploads/2016/04/optimized-ncj1.png" alt="وردپرس فارسی" />
+					</a>
+	</h1>
+
+	
+
+</div>
+<div class="header_ads_space">
+&nbsp;
+<p style="text-align: center;"><span style="font-size: 24pt; font-family: J6-Aref; color: rgb(0, 191, 255);">نخستین ارائه دهنده خدمات طراحی وبسایت ریسپانسیو در شهر قدس<a href="http://wppersian.com/wp-content/uploads/2016/02/www.wppersian-1.png" rel="attachment wp-att-5286">
+</a></span></p></div>		</div>
+
+	</div>
+		<div class="header-bottom">
+		<div class="content_wrapper">
+			
+<div class="header-bottom-wrapper">
+<nav id="nav" class="main_navigation">
+	<ul id="thr_main_navigation_menu" class="nav-menu"><li id="menu-item-5150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5150"><a href="http://wppersian.com/category/learning/">آموزش</a>
+<ul class="sub-menu">
+	<li id="menu-item-5154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5154"><a href="http://wppersian.com/category/wp-plugin-details/">معرفی افزونه وردپرس</a></li>
+	<li id="menu-item-5155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5155"><a href="http://wppersian.com/category/wp-theme-details/">معرفی پوسته های برتر وردپرس</a></li>
+</ul>
+</li>
+<li id="menu-item-5156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5156"><a href="http://wppersian.com/category/information/">دانستنی ها</a>
+<ul class="sub-menu">
+	<li id="menu-item-5157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5157"><a href="http://wppersian.com/category/information/seo/">رتبه سایت</a></li>
+</ul>
+</li>
+<li id="menu-item-5223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5223"><a href="http://wppersian.com/shop/">فروشگاه</a></li>
+<li id="menu-item-5736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5736"><a href="http://wppersian.com/about_us/">درباره ما</a></li>
+<li id="menu-item-5781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5781"><a href="http://wppersian.com/request_submit/">ثبت درخواست</a></li>
+<li id="search_header_wrap"><form class="search_header_form" action="http://wppersian.com/" method="get">
+		<input name="s" class="search_input" size="20" type="text" value="عبارت موردنظر خود را وارد نمایید..." onfocus="(this.value == 'عبارت موردنظر خود را وارد نمایید...') && (this.value = '')" onblur="(this.value == '') && (this.value = 'عبارت موردنظر خود را وارد نمایید...')" placeholder="عبارت موردنظر خود را وارد نمایید..." />
+		</form></li></ul></nav>
+</div>		</div>
+	</div>
+	</header>
+
+<main id="main_content" class="clearfix">
+
+	<div id="subheader_box" class="full_width">
+		<div class="content_wrapper">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="aligncenter" src="http://image005.flaticon.com/28/svg/33/33592.svg" alt="Breaking Borders Logo" width="124" height="124" /></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-family: J6-Modern; font-size: 36pt; color: rgb(0, 204, 255);">زیبایی</span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="aligncenter" src="http://image005.flaticon.com/1/svg/78/78929.svg" alt="پشتیبانی" width="124" height="124" /></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_appear">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-family: J6-Modern; font-size: 36pt; color: rgb(0, 173, 0);">پشتیبانی</span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><img class="aligncenter" src="http://image005.flaticon.com/1/svg/109/109987.svg" alt="امنیت" width="124" height="124" /></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-family: J6-Modern; font-size: 36pt; color: rgb(153, 51, 102);">امنیت</span></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_dotted vc_sep_border_width_3 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_violet">
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_appear">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-family: j6_SazeBold; font-size: 14pt; color: rgb(255, 102, 0);">با پیشرفت روز به روز تکنولوژی ، نحوه ارائه خدمات نیز تغییر کرده است.</span></p>
+<p style="text-align: center;"><span style="font-family: j6_SazeBold; font-size: 14pt; color: rgb(255, 102, 0);">اگر تاکنون به فکر ارتقا کسب و کار خود نبوده‎اید ، ما به بهترین شکل ممکن این کار را برای شما انجام خواهیم داد.</span></p>
+
+		</div>
+	</div>
+<div class="vc_progress_bar wpb_content_element  vc_progress-bar-color-bar_grey"><div class="vc_general vc_single_bar vc_progress-bar-color-violet"><small class="vc_label">افزایش درآمد</small></div><div class="vc_general vc_single_bar vc_progress-bar-color-bar_green"><small class="vc_label">رشد کسب وکار</small></div><div class="vc_general vc_single_bar vc_progress-bar-color-bar_blue"><small class="vc_label">رضایت مشتری</small></div></div></div></div></div></div>
+		</div>
+	</div>
+
+
+ 
+ 
+<section id="featured_wrapper" class="featured_wrapper full_width">
+
+	<div class="content_wrapper">
+   
+      
+   		<div class="featured_2">
+	 	 
+	 				
+				
+				<div class="featured_element">
+
+					<div class="featured_item">
+						<img width="386" height="225" src="http://wppersian.com/wp-content/uploads/2016/04/optimized-8zjr-458x267.jpg" class="attachment-thr-fa-half size-thr-fa-half wp-post-image" alt="optimized-8zjr" />					</div>
+					
+                												
+										<div class="featured_title_over">
+						
+												<h2><a href="http://wppersian.com/upload-to-wordpress-from-url/">افزونه بارگذاری فایل ها از URL به سایت...</a></h2>
+												<div class="featured_excerpt">
+							<p>یکی از دردسرهای بزرگی که ویرایشگران سایت با آن روبرو هستند قرار دادن...</p>
+															<a href="http://wppersian.com/upload-to-wordpress-from-url/" class="f_read_more"> ادامه مطلب</a>
+													</div>
+											</div>
+					<div class="f_title_bg"></div>
+				</div>
+		
+				
+		   
+   	 
+	 				
+				
+				<div class="featured_element">
+
+					<div class="featured_item">
+						<img width="386" height="193" src="http://wppersian.com/wp-content/uploads/2016/03/ThoaiMediaservice-534x267.png" class="attachment-thr-fa-half size-thr-fa-half wp-post-image" alt="ThoaiMediaservice" />					</div>
+					
+                												
+										<div class="featured_title_over">
+						
+												<h2><a href="http://wppersian.com/upload-to-drive/">سرویس جدید دانلود در Google Drive</a></h2>
+												<div class="featured_excerpt">
+							<p></p>
+															<a href="http://wppersian.com/upload-to-drive/" class="f_read_more"> ادامه مطلب</a>
+													</div>
+											</div>
+					<div class="f_title_bg"></div>
+				</div>
+		
+					</div>
+				
+				
+		
+	</div>
+	
+
+</section>
+
+
+
+
+<section id="thr_main" class="content_wrapper">
+
+
+<div class="main_content_wrapper">
+	
+
+
+<div class="posts_wrapper">
+	<article id="post-5349" class="layout_c post-5349 post type-post status-publish format-standard has-post-thumbnail hentry category-learning">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/upload-to-wordpress-from-url/" title="افزونه بارگذاری فایل ها از URL به سایت وردپرسی">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/04/optimized-8zjr-350x185.jpg" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-8zjr" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/upload-to-wordpress-from-url/" title="افزونه بارگذاری فایل ها از URL به سایت وردپرسی">افزونه بارگذاری فایل ها...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+		<p>یکی از دردسرهای بزرگی که ویرایشگران سایت با آن روبرو هستند قرار دادن فایلی است که آن را در جای دیگری در اینترنت دارند و برای این کار...</p>		
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/upload-to-wordpress-from-url/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5816" class="layout_c post-5816 post type-post status-publish format-standard has-post-thumbnail hentry category-learning">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/upload-to-drive/" title="سرویس جدید دانلود در Google Drive">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/03/ThoaiMediaservice-350x185.png" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="ThoaiMediaservice" srcset="http://wppersian.com/wp-content/uploads/2016/03/ThoaiMediaservice-300x158.png 300w, http://wppersian.com/wp-content/uploads/2016/03/ThoaiMediaservice-350x185.png 350w, http://wppersian.com/wp-content/uploads/2016/03/ThoaiMediaservice-514x272.png 514w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/upload-to-drive/" title="سرویس جدید دانلود در Google Drive">سرویس جدید دانلود در Google...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+				
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/upload-to-drive/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5307" class="layout_c post-5307 post type-post status-publish format-standard has-post-thumbnail hentry category-learning category-seo tag-147">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/save-your-web-pages-in-archive-org/" title="صفحات سایت خود را در آرشیو ذخیره کنید">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/03/optimized-kmes.png" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-kmes" srcset="http://wppersian.com/wp-content/uploads/2016/03/optimized-kmes-300x159.png 300w, http://wppersian.com/wp-content/uploads/2016/03/optimized-kmes.png 350w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/save-your-web-pages-in-archive-org/" title="صفحات سایت خود را در آرشیو ذخیره کنید">صفحات سایت خود را در...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+		<p>یکی از بزرگترین سایت های آرشیو آنلاین سایت ARCHIVE.ORG است که علاوه بر ذخیره سازی صفحات وب ، سرویس های مختلف ویدیویی ، صوتی و … را به کاربر...</p>		
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/save-your-web-pages-in-archive-org/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5344" class="layout_c post-5344 post type-post status-publish format-standard has-post-thumbnail hentry category-learning">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/direct-download-files-to-personal-google-drive/" title="دانلود مستقیم فایل ها از یک سایت به Google Drive">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/03/optimized-4jb1.png" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-4jb1" srcset="http://wppersian.com/wp-content/uploads/2016/03/optimized-4jb1-300x159.png 300w, http://wppersian.com/wp-content/uploads/2016/03/optimized-4jb1.png 350w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/direct-download-files-to-personal-google-drive/" title="دانلود مستقیم فایل ها از یک سایت به Google Drive">دانلود مستقیم فایل ها از...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+				
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/direct-download-files-to-personal-google-drive/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5185" class="layout_c post-5185 post type-post status-publish format-standard has-post-thumbnail hentry category-learning tag-149 tag-150 tag-148">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/how-to-create-free-wordpress-website/" title="آموزش ساخت سایت وردپرس رایگان">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/02/optimized-nwew-350x185.jpg" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-nwew" srcset="http://wppersian.com/wp-content/uploads/2016/02/optimized-nwew-350x185.jpg 350w, http://wppersian.com/wp-content/uploads/2016/02/optimized-nwew-514x272.jpg 514w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/how-to-create-free-wordpress-website/" title="آموزش ساخت سایت وردپرس رایگان">آموزش ساخت سایت وردپرس...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+				
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/how-to-create-free-wordpress-website/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5232" class="layout_c post-5232 post type-post status-publish format-standard has-post-thumbnail hentry category-learning category-information category-wp-plugin-details">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/how-to-upload-more-types-of-file-in-wordpress/" title="بارگذاری انواع فایل در گالری وردپرس">
+
+		<img width="341" height="185" src="http://wppersian.com/wp-content/uploads/2016/02/uploadfile-types.png" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="uploadfile-types" srcset="http://wppersian.com/wp-content/uploads/2016/02/uploadfile-types-300x163.png 300w, http://wppersian.com/wp-content/uploads/2016/02/uploadfile-types-768x416.png 768w, http://wppersian.com/wp-content/uploads/2016/02/uploadfile-types.png 943w" sizes="(max-width: 341px) 100vw, 341px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/how-to-upload-more-types-of-file-in-wordpress/" title="بارگذاری انواع فایل در گالری وردپرس">بارگذاری انواع فایل در...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+		<p>به طور پیشفرض در وردپرس کاربر قادر به بارگذاری تعداد محدودی از فایل ها میباشد.
+مثلا اگر کاربر نیاز داشته باشد که یک فایل فوتوشاپ .psd را...</p>		
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/how-to-upload-more-types-of-file-in-wordpress/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5208" class="layout_c post-5208 post type-post status-publish format-standard has-post-thumbnail hentry category-learning category-information">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/how-to-edit-a-document-in-google-docs/" title="ویرایش گروهی اسناد در Google">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/02/optimized-8ug9-350x185.jpg" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-8ug9" srcset="http://wppersian.com/wp-content/uploads/2016/02/optimized-8ug9-350x185.jpg 350w, http://wppersian.com/wp-content/uploads/2016/02/optimized-8ug9-514x272.jpg 514w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/how-to-edit-a-document-in-google-docs/" title="ویرایش گروهی اسناد در Google">ویرایش گروهی اسناد در...</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+		<p>در این پست قصد دارم یکی از سرویس های گوگل رو معرفی کنم که میتونه برای اکثر شما کاربرد داشته باشه.
+یکی از قابلیت هایی که گوگل برای...</p>		
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/how-to-edit-a-document-in-google-docs/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article>	<article id="post-5210" class="layout_c post-5210 post type-post status-publish format-standard has-post-thumbnail hentry category-learning category-wp-plugin-details">
+
+		<div class="entry-image featured_image">
+		<a href="http://wppersian.com/plugin-to-change-wordpress-font/" title="افزونه تغییر فونت وردپرس">
+
+		<img width="350" height="185" src="http://wppersian.com/wp-content/uploads/2016/02/optimized-jlyo-350x185.jpg" class="attachment-thr-layout-c size-thr-layout-c wp-post-image" alt="optimized-jlyo" srcset="http://wppersian.com/wp-content/uploads/2016/02/optimized-jlyo-350x185.jpg 350w, http://wppersian.com/wp-content/uploads/2016/02/optimized-jlyo-514x272.jpg 514w" sizes="(max-width: 350px) 100vw, 350px" />		
+		
+    	
+		</a>
+	</div>
+		
+	<div class="entry-header">
+
+		<h2 class="entry-title"><a href="http://wppersian.com/plugin-to-change-wordpress-font/" title="افزونه تغییر فونت وردپرس">افزونه تغییر فونت وردپرس</a></h2>
+		
+			</div>
+		<div class="entry-content">
+		
+		<p>افزونه Use Any Font یکی از ساده ترین راهها برای تغییر فونت وردپرس به فونت دلخواه خودتون است که به راحتی از محیط ویندوز , فونت رو انتخاب...</p>		
+	</div>
+	
+
+	<div class="entry-footer">
+
+				<div class="meta-item">
+			<a href="http://wppersian.com/plugin-to-change-wordpress-font/" class="read_more_button read_more_small">ادامه مطلب</a>
+		</div>
+		
+				
+	</div>
+
+	
+<div class="clear"></div>	
+</article></div>
+
+	
+
+</div>
+
+<aside id="sidebar" class="sidebar right">
+	<div id="search-2" class="widget widget_search"><form class="search_form" action="http://wppersian.com/" method="get">
+	<input name="s" class="search_input" size="20" type="text" value="عبارت موردنظر خود را وارد نمایید..." onfocus="(this.value == 'عبارت موردنظر خود را وارد نمایید...') && (this.value = '')" onblur="(this.value == '') && (this.value = 'عبارت موردنظر خود را وارد نمایید...')" placeholder="عبارت موردنظر خود را وارد نمایید..." />
+	
+</form></div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h4 class="widget-title"><span>نوشته‌های تازه</span></h4>		<ul>
+					<li>
+				<a href="http://wppersian.com/upload-to-wordpress-from-url/">افزونه بارگذاری فایل ها از URL به سایت وردپرسی</a>
+						</li>
+					<li>
+				<a href="http://wppersian.com/upload-to-drive/">سرویس جدید دانلود در Google Drive</a>
+						</li>
+					<li>
+				<a href="http://wppersian.com/save-your-web-pages-in-archive-org/">صفحات سایت خود را در آرشیو ذخیره کنید</a>
+						</li>
+					<li>
+				<a href="http://wppersian.com/direct-download-files-to-personal-google-drive/">دانلود مستقیم فایل ها از یک سایت به Google Drive</a>
+						</li>
+					<li>
+				<a href="http://wppersian.com/how-to-create-free-wordpress-website/">آموزش ساخت سایت وردپرس رایگان</a>
+						</li>
+				</ul>
+		</div>		<div id="woocommerce_products-2" class="widget woocommerce widget_products"><h4 class="widget-title"><span>محصولات</span></h4><ul class="product_list_widget">
+<li>
+	<a href="http://wppersian.com/product/wordpress-custom-font-plugin/" title="افزونه تغییر فونت سایت وردپرس">
+		<img width="32" height="32" src="http://wppersian.com/wp-content/uploads/2016/03/optimized-n8c5.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="optimized-n8c5" srcset="http://wppersian.com/wp-content/uploads/2016/03/optimized-n8c5-150x150.png 150w, http://wppersian.com/wp-content/uploads/2016/03/optimized-n8c5-100x100.png 100w, http://wppersian.com/wp-content/uploads/2016/03/optimized-n8c5.png 180w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">افزونه تغییر فونت سایت وردپرس</span>
+	</a>
+		<span class="amount">10,000تومان</span></li>
+
+<li>
+	<a href="http://wppersian.com/product/meta-tags-optimization/" title="افزونه Meta Tags Optimization">
+		<img width="32" height="32" src="http://wppersian.com/wp-content/uploads/2016/02/optimized-jpij.png" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="optimized-jpij" srcset="http://wppersian.com/wp-content/uploads/2016/02/optimized-jpij-150x150.png 150w, http://wppersian.com/wp-content/uploads/2016/02/optimized-jpij-100x100.png 100w, http://wppersian.com/wp-content/uploads/2016/02/optimized-jpij.png 200w" sizes="(max-width: 200px) 100vw, 200px" />		<span class="product-title">افزونه Meta Tags Optimization</span>
+	</a>
+		<span class="amount">رایگان!</span></li>
+</ul></div><div id="categories-2" class="widget widget_categories"><h4 class="widget-title"><span>دسته‌ها</span></h4>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://wppersian.com/category/learning/">آموزش</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://wppersian.com/category/information/">دانستنی ها</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://wppersian.com/category/information/seo/">رتبه سایت</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://wppersian.com/category/wp-plugin-details/" title="معرفی افزونه های برتر وردپرس">معرفی افزونه وردپرس</a>
+</li>
+		</ul>
+</div><div id="text-2" class="widget widget_text"><h4 class="widget-title"><span>Facebook</span></h4>			<div class="textwidget"><a href="https://www.facebook.com/persian.wp.7" target="_blank"><img src="https://googledrive.com/host/0B0g-f0plG7noclUySkFSbDBlSkE" height="0" /></a></div>
+		</div><div id="text-3" class="widget widget_text"><h4 class="widget-title"><span>Instagram</span></h4>			<div class="textwidget"><a href="https://www.instagram.com/wordpress_farsi/" target="_blank"><img src="https://googledrive.com/host/0B0g-f0plG7noYTNFdGhaRnUtaGM" height="0" /></a></div>
+		</div><div id="text-4" class="widget widget_text"><h4 class="widget-title"><span>Pinterest</span></h4>			<div class="textwidget"><a href="https://www.pinterest.com/wppersian/" target="_blank"><img src="https://googledrive.com/host/0B0g-f0plG7nockY2azNfSjJqNEE" height="107" /></a></div>
+		</div><div id="text-5" class="widget widget_text"><h4 class="widget-title"><span>Twitter</span></h4>			<div class="textwidget"><a href="https://twitter.com/WordPress_fa" target="_blank"><img src="https://googledrive.com/host/0B0g-f0plG7noMHVYaE1sa0tCeTA" height="0" /></a></div>
+		</div></aside>	
+</section>
+
+
+
+</main>
+<div class="clear"></div>
+<footer id="footer" class="footer_wrapper full_width">
+	
+		<div class="content_wrapper">
+			</div>
+		
+		<div id="copy_area" class="copy_area full_width">
+		
+		<div class="content_wrapper">
+			<div class="left">
+				<p style="direction: ltr;"><span style="font-family: Impact, Chicago; font-size: 12pt;">Copyright © 2016 <a href="http://wppersian.com/author/j6star/" target="_blank">J6Star</a> all rights reserved.</span></p>			</div>		
+			
+			<ul id="thr_footer_menu" class="shl-footer-menu"><li id="menu-item-5707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5707"><a href="http://wppersian.com/your-profile/">شناسه کاربری</a></li>
+<li id="menu-item-5708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5708"><a href="http://wppersian.com/register/">ثبت نام</a></li>
+<li id="menu-item-5710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5710"><a href="http://wppersian.com/login/">ورود</a></li>
+</ul></div></div></footer>
